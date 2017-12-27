@@ -1,5 +1,49 @@
 # Change log
 
+## [4.1.1](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/4.1.0)
+* Fix #186, #189
+
+## [4.1.0](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/4.1.0)
+* Introduce message spacing
+* New circle stroke spin animation
+
+## [4.0.1](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/4.0.1)
+* Fix view in auto layout
+* Fix #173, #180
+
+## [4.0.0](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/4.0.0)
+* Update to Swift 4
+
+## [3.7.0](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/3.7.0)
+* Support app extension
+
+## [3.6.1](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/3.6.1)
+* Fix #138
+
+## [3.6.0](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/3.6.0)
+* Fix #128
+
+## [3.5.2](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/3.5.2)
+* Fix #132
+
+## [3.5.1](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/3.5.1)
+* Fix #123
+
+## [v3.5](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/v3.5)
+* Fix #121
+* Fix setting message
+
+## [v3.4](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/v3.4)
+* Fix constraint conflict in UI blocker
+
+## [v3.3](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/v3.3)
+* Able to change text color in UI blocker
+* Fix UI blocker layer on orientation change
+
+## [v3.2](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/v3.2)
+* Able to change UI blocker background color
+* Able to change message in UI blocker during displaying
+
 ## [v3.1](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/v3.1)
 * Optimize compile time
 * Update setting to Swift 3.0.1
@@ -75,11 +119,9 @@
 * Add documentation
 
 ## [v1.1](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/v1.1)
-
 * Change project structure to work well with CocoaPods
 * Small fix in `podspec`
 
 ## [v1.0](https://github.com/ninjaprox/NVActivityIndicatorView/releases/tag/v1.0)
-
 * Initial release
 * Full implementations of 28 loaders from loaders.css
